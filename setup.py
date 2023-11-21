@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "SummariaVerse"
 AUTHOR_USER_NAME = "musfiquejim"
-SRC_REPO = "SUMMARIAVERSE"
+SRC_REPO = "summariaVerse"
 AUTHOR_EMAIL = "jimmusfique@gmail.com"
 
 

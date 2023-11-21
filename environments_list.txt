@@ -1,0 +1,9 @@
+# conda environments:
+#
+                         C:\Users\DELL\Desktop\chinemahall\AJAX-Movie-Recommendation-System-with-Sentiment-Analysis-master\env
+                         C:\Users\DELL\Desktop\movie-recomendation-system\env
+                         C:\Users\DELL\Desktop\sample-project\env
+base                     C:\Users\DELL\miniconda3
+env                      C:\Users\DELL\miniconda3\envs\env
+textS                    C:\Users\DELL\miniconda3\envs\textS
+
